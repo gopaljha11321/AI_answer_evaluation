@@ -1,9 +1,8 @@
 {
   "name": "ai",
   "version": "1.0.0",
-  "engines":
-  {
-    "node":"18.6.0"
+  "engines": {
+    "node": "18.6.0"
   },
   "description": "AI project",
   "main": "app.js",
